@@ -50,6 +50,22 @@ namespace Ass13regularexpressionregex
             }
 
         }
+
+        public void CustomRegexSearch()
+        {
+            Console.WriteLine("enter your custom regex:");
+            string customregex = Console.ReadLine();
+            string pattern3 = @"\d+";
+            Regex regex = new Regex(pattern3);
+            if(regex.IsMatch(customregex))
+            {
+                Console.WriteLine($"Found:{customregex}");
+            }
+            else
+            {
+                Console.WriteLine($"not found:{customregex}");
+            }
+        }
         public void display()
         {
             Console.WriteLine("The data given is as Follows:");
@@ -71,6 +87,10 @@ namespace Ass13regularexpressionregex
             //Mobile number
             Program number = new Program();
             number.Mobile();
+
+            //custom regex
+            Program custom = new Program();
+            custom.CustomRegexSearch();
 
             //Displaying results
             Program displaying = new Program();
