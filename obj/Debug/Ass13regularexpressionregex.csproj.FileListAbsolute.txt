@@ -1,0 +1,7 @@
+D:\mphasis\assignments\day8\Ass13regularexpressionregex\Ass13regularexpressionregex\bin\Debug\Ass13regularexpressionregex.exe.config
+D:\mphasis\assignments\day8\Ass13regularexpressionregex\Ass13regularexpressionregex\bin\Debug\Ass13regularexpressionregex.exe
+D:\mphasis\assignments\day8\Ass13regularexpressionregex\Ass13regularexpressionregex\bin\Debug\Ass13regularexpressionregex.pdb
+D:\mphasis\assignments\day8\Ass13regularexpressionregex\Ass13regularexpressionregex\obj\Debug\Ass13regularexpressionregex.csproj.AssemblyReference.cache
+D:\mphasis\assignments\day8\Ass13regularexpressionregex\Ass13regularexpressionregex\obj\Debug\Ass13regularexpressionregex.csproj.CoreCompileInputs.cache
+D:\mphasis\assignments\day8\Ass13regularexpressionregex\Ass13regularexpressionregex\obj\Debug\Ass13regularexpressionregex.exe
+D:\mphasis\assignments\day8\Ass13regularexpressionregex\Ass13regularexpressionregex\obj\Debug\Ass13regularexpressionregex.pdb
